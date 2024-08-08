@@ -1,0 +1,37 @@
+.checkerboard-col {
+    display: flex;
+    height: 60px;
+    flex-wrap: wrap;
+  }
+  .clothe1 {
+    background-color: #901313;
+  }
+  .clothe2 {
+    background-color: #07a5da;
+  }
+  .clothe3 {
+    background-color: #ffa600;
+  }
+  .clothe4 {
+    background-color: #0032a8;
+  }
+  .clothe5 {
+    background-color: #901313;
+  }
+  .clothe6 {
+    background-color: #07a5da;
+  }
+  .clothe7 {
+    background-color: #ffa600;
+  }
+  .clothe8 {
+    background-color: #0032a8;
+  }
+  .clothe9 {
+    background-color: #901313;
+  }
+  .clothe10 {
+    background-color: #07a5da;
+  }
+  
+  
